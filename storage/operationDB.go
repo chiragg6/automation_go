@@ -198,7 +198,7 @@ type Logs struct {
 	Logs string
 }
 
-type Summarty struct {
+type Summary struct {
 	ApplicationID string
 	Success int
 	Fail int
